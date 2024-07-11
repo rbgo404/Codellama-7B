@@ -1,6 +1,6 @@
 version: 1.0.0
 
-name: codellama-7b
+name: Codellama-7b
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
